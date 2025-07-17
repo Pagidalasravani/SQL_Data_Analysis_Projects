@@ -10,7 +10,7 @@ Each project in this repository follows a structured Data Analysis Lifecycle:
 3. Data extracted or imported for further transformation and analysis.
 
 **2. Data Cleaning & Transformation** 
-1. Tool: SQL (using platforms like MySQL, PostgreSQL, or Snowflake)
+1. Tool: SQL (using platforms like MySQL, Sql Server Management Studio)
 
 **Activities**: 
   1. Handling nulls, duplicates, and incorrect types
